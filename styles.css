@@ -6,4 +6,5 @@ body{
 h1{
     font-size: 60px;
     color: yellow;
+    text-shadow: 3px 3px 5px rgb(181, 9, 9);
 }
