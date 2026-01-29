@@ -1,8 +1,9 @@
 body{
-    background-color: violet;
+    background-color: rgb(84, 0, 84);
     color: white;
 }
 
 h1{
     font-size: 60px;
+    color: yellow;
 }
